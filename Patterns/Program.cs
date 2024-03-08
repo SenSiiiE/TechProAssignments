@@ -26,7 +26,7 @@ namespace Patterns
             //HollowReverseTriangle(6);
             //palindromeTriangle(6);
             //mirrorImageTriangle(6);
-            //diamond(6);
+            diamond(6);
 
         }
 
